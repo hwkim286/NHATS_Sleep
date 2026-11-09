@@ -1,6 +1,6 @@
 
-# title: "Sleep and Functional Independence in Aging - A Longitudinal Study Using NHATS Data"
-## author: "Hyun Woo Kim, BS MSE"
+# "Sleep and Functional Independence in Aging - A Longitudinal Study Using NHATS Data"
+## "Hyun Woo Kim, BS MSE"
 
 
 ---

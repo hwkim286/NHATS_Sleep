@@ -33,15 +33,15 @@ By examining repeated measures of sleep-related experiences and functional outco
 
 ## 3. Research Questions
 
-###Primary Research Question
+### Primary Research Question
 Are sleep difficulties associated with subsequent functional decline and loss of independence among older adults?
 
-###Secondary Research Questions
+### Secondary Research Questions
 1. Are different types or levels of sleep difficulties associated with different patterns of functional decline? 
 2. Does sleep medication use influence the association between sleep difficulties and subsequent functional outcomes? 
 3. Do demographic and clinical characteristics contribute to differences in the relationship between sleep difficulties and functional independence? 
 
-###Working Hypothesis
+### Working Hypothesis
 
 I hypothesize that older adults reporting sleep difficulties my experience a greater likelihood of subsequent functional decline compared with those reporting fewer sleep difficulties. 
 
@@ -51,7 +51,7 @@ These hypotheses will be evaluated through longitudinal observational analyses.
 
 ---
 
-##4. Research Motivation
+## 4. Research Motivation
 
 My interest in this question comes from a broader interest in how everyday health experiences infludence older adults' ability to maintain independence. Through experiences caring for older adults, I became increasingly interested in the functional consequences of health challenges that may initially appear unrelated to daily activities. 
 

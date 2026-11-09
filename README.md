@@ -3,8 +3,6 @@
 ## "Hyun Woo Kim, BS MSE"
 
 
----
-
 ## 1. Project Overview
 
 **Research Keywords:** Geriatric Health, Sleep, Aging, Big Data Analysis,Functional Independence, Population Health, Precision Healthcare, Predictive Modeling 

@@ -1,61 +1,172 @@
+Sleep and Functional Independence in Aging - A Longitudinal Study Using
+NHATS Data
+================
+Hyun Woo Kim, BS MSE
 
-# "Sleep and Functional Independence in Aging - A Longitudinal Study Using NHATS Data"
-## "Hyun Woo Kim, BS MSE"
-
+------------------------------------------------------------------------
 
 ## 1. Project Overview
 
-**Research Keywords:** Geriatric Health, Sleep, Aging, Big Data Analysis,Functional Independence, Population Health, Precision Healthcare, Predictive Modeling 
-**Dataset:** National Health and Aging Trends Study (NHATS) 
-**Programming Language:** R 
-**Project Type:** Independent Research Project 
-**Status:** In Progress 
+**Research Keywords:** Geriatric Health, Sleep, Aging, Big Data
+Analysis,Functional Independence, Population Health, Precision
+Healthcare, Predictive Modeling\
+**Dataset:** National Health and Aging Trends Study (NHATS)\
+**Programming Language:** R\
+**Project Type:** Independent Research Project\
+**Status:** In Progress
 
----
-
-
+------------------------------------------------------------------------
 
 ## 2. Project Summary
 
-My research aims to harness the power of big data and advanced statistical methodologies to address complex healthcare challenges in aging societies, building on my experience in Applied Mathematics and Statistics. My primary focus is to develop data-driven approaches that inform urban healthcare systems for population health management of older adults. 
+My research aims to harness the power of big data and advanced
+statistical methodologies to address complex healthcare challenges in
+aging societies, building on my experience in Applied Mathematics and
+Statistics. My primary focus is to develop data-driven approaches that
+inform urban healthcare systems for population health management of
+older adults.
 
-Sleep is an essential component of healthy aging, yet sleep difficulties are common among older adults and may have implications beyond nighttime rest. Poor sleep may be associated with changes in physicaal functioning and ability to maintain independence in daily life. This independent research project investigates whether sleep difficulties are associated with subsequent functional decline among older adults. 
+Sleep is an essential component of healthy aging, yet sleep difficulties
+are common among older adults and may have implications beyond nighttime
+rest. Poor sleep may be associated with changes in physicaal functioning
+and ability to maintain independence in daily life. This independent
+research project investigates whether sleep difficulties are associated
+with subsequent functional decline among older adults.
 
-Using longitudinal data from the National Helath and Aging Trends Study (NHATS), I aim to examine how sleep-related difficulties relate to changes in functional independence over time. In particular, I am interested in whether older adults experiencing sleep difficulties are more likely to develop limitations in functional independence seen through physical capacity and activities of daily living. 
+Using longitudinal data from the National Helath and Aging Trends Study
+(NHATS), I aim to examine how sleep-related difficulties relate to
+changes in functional independence over time. In particular, I am
+interested in whether older adults experiencing sleep difficulties are
+more likely to develop limitations in functional independence seen
+through physical capacity and activities of daily living.
 
-By examining repeated measures of sleep-related experiences and functional outcomes, this project seeks to better understand how potentially modifiable health factors may relate to the preservation of independence in later life. 
+By examining repeated measures of sleep-related experiences and
+functional outcomes, this project seeks to better understand how
+potentially modifiable health factors may relate to the preservation of
+independence in later life.
 
-
-
----
+------------------------------------------------------------------------
 
 ## 3. Research Questions
 
 ### Primary Research Question
-Are sleep difficulties associated with subsequent functional decline and loss of independence among older adults?
+
+Are sleep difficulties associated with subsequent functional decline and
+loss of independence among older adults?
 
 ### Secondary Research Questions
-1. Are different types or levels of sleep difficulties associated with different patterns of functional decline? 
-2. Does sleep medication use influence the association between sleep difficulties and subsequent functional outcomes? 
-3. Do demographic and clinical characteristics contribute to differences in the relationship between sleep difficulties and functional independence? 
+
+1.  Are different types or levels of sleep difficulties associated with
+    different patterns of functional decline?
+2.  Does sleep medication use influence the association between sleep
+    difficulties and subsequent functional outcomes?
+3.  Do demographic and clinical characteristics contribute to
+    differences in the relationship between sleep difficulties and
+    functional independence?
 
 ### Working Hypothesis
 
-I hypothesize that older adults reporting sleep difficulties my experience a greater likelihood of subsequent functional decline compared with those reporting fewer sleep difficulties. 
+I hypothesize that older adults reporting sleep difficulties my
+experience a greater likelihood of subsequent functional decline
+compared with those reporting fewer sleep difficulties.
 
-I also aim to investigate whether the association differs according to sleep medication use and other relevant participant characteristics. 
+I also aim to investigate whether the association differs according to
+sleep medication use and other relevant participant characteristics.
 
-These hypotheses will be evaluated through longitudinal observational analyses. 
+These hypotheses will be evaluated through longitudinal observational
+analyses.
 
----
+------------------------------------------------------------------------
 
 ## 4. Research Motivation
 
-My interest in this question comes from a broader interest in how everyday health experiences infludence older adults' ability to maintain independence. Through experiences caring for older adults, I became increasingly interested in the functional consequences of health challenges that may initially appear unrelated to daily activities. 
+My interest in this question comes from a broader interest in how
+everyday health experiences infludence older adults’ ability to maintain
+independence. Through experiences caring for older adults, I became
+increasingly interested in the functional consequences of health
+challenges that may initially appear unrelated to daily activities.
 
-Sleep difficulties are one such example. Although sleep is often considered a separate aspect of health, its potential relationship with physical functioning and independence raises important questions about healthy aging. 
+Sleep difficulties are one such example. Although sleep is often
+considered a separate aspect of health, its potential relationship with
+physical functioning and independence raises important questions about
+healthy aging.
 
-I wanted to explore this relationship using population-level data, moving beyond individual observations to examin longitudinal patterns across a broader population. Ultimately, I hope this project contributes to a better understanding of factors associated with maintaining independence and quality of life in older adults. 
+I wanted to explore this relationship using population-level data,
+moving beyond individual observations to examin longitudinal patterns
+across a broader population. Ultimately, I hope this project contributes
+to a better understanding of factors associated with maintaining
+independence and quality of life in older adults.
 
+------------------------------------------------------------------------
 
+## 5. Data Source: NHATS
 
+This project uses the National Health and Aging Trends Study (NHATS), a
+nationally representative longitudinal study of Medicare beneficiaries
+aged 65 and older in the United States.
+
+NHATS collects repeated information on multiple dimensions of aging,
+including:
+
+- Physical functioning and mobility
+- Activities of daily living (ADLs)
+- Instrumental activities of daily living (IADLs)
+- Health conditions and demographic characteristics
+- Cognitive functioning
+- Well-being and other aspects of daily life
+
+### Why NHATS?
+
+My initial research proposal considered using MIMIC-IV. However, I
+transitioned to NHATS because its longitudinal design and nationally
+representative data are better suited to addressing my research
+question.
+
+Rather than examining health characteristics at a single point in time,
+NHATS allows me to investigate how functional status changes across
+repeated assessments. Specifically, I am interested in developing
+measures of sleep difficulties and examining their associations with
+subsequent changes in functional independence, while also considering
+whether sleep medication use may influence these relationship.
+
+This distinction is particularly important because my primary interest
+is not simply whether sleep difficulties coexist with functional
+limitations, but whether they are associated with subsequent changes in
+an indivisual’s ability to maintain independence over time.
+
+Official dataset documentation:
+<https://www.nhats.org/nhats/methods-documentation>
+
+------------------------------------------------------------------------
+
+## 6. Research Interest & Direction
+
+My interest in this question comes from a broader interest in how
+everyday health experiences influence older adults’ ability to maintain
+independence.
+
+### Study Design
+
+- **Design**: Lognitudinal observational study\
+- **Study Population**: Self Respondents In Selected NHATS study rounds\
+- **Exposure of Interest**: Sleep difficulties\
+- **Primary Outcome**: Change in functional independence\
+- **Analytical Framework**: Longitudinal analysis of repeated
+  observations
+
+### Conceptual Framework
+
+The proposed conceptual framework examines the relationship between
+sleep difficulties and subsequent functional outcomes.
+
+This framework is intended to guide variable selection and hypothesis
+development. The analytical role of sleep medication use and other
+health characteristics will be evaluated through literature review and
+study design considerations rather than assumed in advance.
+
+### Schematic Diagram
+
+<figure>
+<img src="Schematic.png" alt="Schematic" />
+<figcaption aria-hidden="true">Schematic</figcaption>
+</figure>

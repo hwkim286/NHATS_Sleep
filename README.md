@@ -147,7 +147,7 @@ independence.
 
 ### Study Design
 
-- **Design**: Lognitudinal observational study\
+- **Design**: Longitudinal observational study\
 - **Study Population**: Self Respondents In Selected NHATS study rounds\
 - **Exposure of Interest**: Sleep difficulties\
 - **Primary Outcome**: Change in functional independence\

@@ -170,3 +170,13 @@ study design considerations rather than assumed in advance.
 <img src="Schematic.png" alt="Schematic" />
 <figcaption aria-hidden="true">Schematic</figcaption>
 </figure>
+
+------------------------------------------------------------------------
+
+## 7. Preliminary Results
+
+<figure>
+<img src="Table_Insomnia.png" alt="Table 1: Demographic Characteristics" />
+<figcaption aria-hidden="true">Schematic</figcaption>
+</figure>
+

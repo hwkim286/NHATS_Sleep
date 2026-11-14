@@ -177,6 +177,6 @@ study design considerations rather than assumed in advance.
 
 <figure>
 <img src="Table_Insomnia.png" alt="Table 1: Demographic Characteristics" />
-<figcaption aria-hidden="true">Schematic</figcaption>
+<figcaption aria-hidden="true">Demographic Characteristics</figcaption>
 </figure>
 

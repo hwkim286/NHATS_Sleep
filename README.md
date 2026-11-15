@@ -167,8 +167,8 @@ study design considerations rather than assumed in advance.
 ### Schematic Diagram
 
 <figure>
-<img src="Schematic.png" alt="Schematic" />
-<figcaption aria-hidden="true">Schematic</figcaption>
+<img src="FlowChart.png" alt="Participants Included" />
+<figcaption aria-hidden="true">Participants Included</figcaption>
 </figure>
 
 ------------------------------------------------------------------------
